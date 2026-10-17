@@ -3,7 +3,7 @@ MSc Mechanical Engineering | CAD Designer - SolidWorks, Blender, AutoCAD - Car p
 
 **Tools:** 【entity-SolidWorks¦canonical_name=SolidWorks】 | Blender | 【entity-AutoCAD¦canonical_name=AutoCAD】
 **Focus:** Car parts, chassis, suspension, EV components | DFM | GD&T (BS 8888)
-**Visa:** Graduate Visa UK till Oct 2027 | Open to Junior CAD / Mechanical Design roles
+**Visa:** Graduate Visa UK till Oct 2027 | Open to CAD / Mechanical Design roles
 
 ---
 
