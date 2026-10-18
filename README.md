@@ -20,11 +20,11 @@ MSc Mechanical Engineering graduate based in Luton, passionate about car design 
 
 # Projects
 
-01 - Car Rim / Wheel Design 
-- Software: SolidWorks + Blender
-- Details: 5-spoke lightweight rim, PBR materials
-- GitHub: Free preview - low-res STL + render (coming)
-- Full model: On CGTrader (link above)
+01 - Tyre and Rim Design - DONE
+- Software: SolidWorks
+- Files: Tyre and Rim.STEP + render
+- Details: 5-spoke lightweight rim, PBR materials, manufacturable [Tyre and Rim Render] (Tyre and Rim.jpg)
+Full high-res model: On CGTrader (link above)
 
 02 - Suspension / Chassis Component - Coming soon
 
