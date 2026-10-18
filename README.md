@@ -33,6 +33,6 @@ MSc Mechanical Engineering graduate based in Luton, passionate about car design 
 ---
 
 # Workflow
-Sketch -> CAD (SolidWorks / Blender) -> 2D Drawing (【AutoCAD】) -> Render -> FEA check -> DFM
+Sketch -> CAD (SolidWorks / Blender) -> 2D Drawing (AutoCAD / SolidWorks) -> Render -> FEA check -> DFM
 
 Contact: Open to roles in Bedfordshire / Milton Keynes / Coventry / Remote
