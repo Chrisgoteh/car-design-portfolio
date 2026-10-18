@@ -23,8 +23,14 @@ MSc Mechanical Engineering graduate based in Luton, passionate about car design 
 01 - Tyre and Rim Design - DONE
 - Software: SolidWorks
 - Files: Tyre and Rim.STEP + render
-- Details: 5-spoke lightweight rim, PBR materials, manufacturable [Tyre and Rim Render] (Tyre and Rim.jpg)
-Full high-res model: On CGTrader (link above)
+Details: 5-spoke lightweight rim, PBR materials, manufacturable
+- Renders:
+![Rim Front](Rim%20-%20Front%20View.jpg)
+![Rim Side](Rim%20-%20Side%20View.jpg)
+![Rim Isometric](Rim%20-%20Isometric%20View.jpg)
+![Tyre and Rim](Rim.jpg)
+- STEP file: Tyre and Rim.STEP
+- Full high-res model for sale: On CGTrader (link above)
 
 02 - Suspension / Chassis Component - Coming soon
 
