@@ -39,6 +39,6 @@ Details: 5-spoke lightweight rim, PBR materials, manufacturable
 ---
 
 # Workflow
-Sketch -> CAD (SolidWorks / Blender) -> 2D Drawing (AutoCAD / SolidWorks) -> Render -> FEA check -> DFM
+Sketch -> CAD (SolidWorks / Blender) -> 2D Drawing (AutoCAD / SolidWorks) -> Render -> DFM
 
 Contact: Open to roles in Bedfordshire / Milton Keynes / Coventry / Remote
