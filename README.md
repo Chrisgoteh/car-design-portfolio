@@ -32,9 +32,7 @@ Details: 5-spoke lightweight rim, PBR materials, manufacturable
 - STEP file: Tyre and Rim.STEP
 - Full high-res model for sale: On CGTrader (link above)
 
-02 - Suspension / Chassis Component - Coming soon
 
-03 - Car Exterior Concept - Coming soon
 
 ---
 
